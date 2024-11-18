@@ -14,5 +14,3 @@
 marcohidalgo2385/marcohidalgo2385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/15b5d932-8149-41c0-b24d-10e3329ef21b)
-
