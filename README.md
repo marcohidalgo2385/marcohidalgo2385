@@ -1,3 +1,4 @@
+![Blue Photo Bold Geometric IT Technology Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/574521fb-c2dd-4b32-84b8-d4350f6d6a1d)
 👋 ¡Hola! Marco Hidalgo
 
 🔍 Me interesa la ciencia de datos, el análisis predictivo, y la visualización de datos.
