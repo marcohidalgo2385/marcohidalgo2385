@@ -32,7 +32,7 @@
 
 ### :hammer_and_wrench: Estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcohidalgo2385&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcohidalgo2385&theme=dark&background=blueberry)](https://git.io/streak-stats)
 
 <!---
 marcohidalgo2385/marcohidalgo2385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
